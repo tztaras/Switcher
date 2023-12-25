@@ -20,7 +20,7 @@ input[type='checkbox'] {
     background: yellow;
     border-radius: 30px;
     transition: 1s;
-    box-shadow: inset 0 0 10px rgba(255, 196, 0, 0.9);
+    box-shadow: inset 0 0 10px rgba(70, 54, 2, 0.9);
     /* border: 1.0px solid rgba(175, 172, 11, 0.911); */
 
 }
@@ -44,7 +44,7 @@ input[type='checkbox']:before {
     left: 0;
     background: rgb(11, 139, 11);
     transition: 1s;
-    transform: scale(0.9);
+    transform: scale(1.1);
     box-shadow: inset 0px 0px 10px rgb(0,
             0,
             0,
